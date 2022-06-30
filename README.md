@@ -1,3 +1,4 @@
 # flashlight-dio-avanade-bootcamp
 
-App de lanterna para dispositivos android feito para o bootcamp Decola Avanade
+Desafio de construção de um app de lanterna para dispositivos android feito para o bootcamp Decola Avanade.
+Funciona com botão on/off e sensor de movimento ao chacoalhar o aparelho.
